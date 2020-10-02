@@ -1,11 +1,9 @@
 ---
-title: ^_^
 layout: page
-permalink: /euler/
-
-
-summary: "MEW"
+title: About
+permalink: /euler1/
 ---
+
 <!--
 
 #################################################
