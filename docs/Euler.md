@@ -1,9 +1,10 @@
 ---
-title: Title
+title: ^_^
+layout: page
+permalink: /euler/
 
 
-
-summary: "summary"
+summary: "MEW"
 ---
 <!--
 
