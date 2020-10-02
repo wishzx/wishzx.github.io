@@ -55,3 +55,14 @@ plugins:
 #   - vendor/ruby/
 
 theme: jekyll-theme-hacker
+
+docs_list_title: fkosfdosk
+docs:
+
+- title: gfgfgf
+  url: about.md
+- title: euler
+  url: euler.html
+
+- title: courses
+  url: courses.html
