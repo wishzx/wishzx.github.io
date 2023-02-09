@@ -1,0 +1,39 @@
+baseURL = 'https://wishzx.github.io/'
+languageCode = 'en-us'
+theme = "nightfall"
+
+[menu]
+  [[menu.header]]
+    name = "blog"
+    weight = 0
+    url = "post"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "about"
+
+[params]
+author = "Gabriele Giganti"
+job = "Software Engineer"
+user = "giga"
+hostname = "pango"
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/wishzx"
+
+[[params.social]]
+key = 1
+name = "linkedin"
+url = "https://www.linkedin.com/in/gabriele-giganti-b5b5581a4/"
+
+[[params.social]]
+key = 2
+name = "email"
+url = "mailto:gabriele.giganti@gmail.com"
+
+[[params.social]]
+key = 3
+name = "twitter"
+url = "https://twitter.com/wishzxy"
