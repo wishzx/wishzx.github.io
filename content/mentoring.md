@@ -6,7 +6,7 @@ aliases = ["mentoring", "coaching"]
 author = "GG"
 +++
 
-I offer private mentoring to people passionate about computer science in my free time, required some basic knowledge of programming.
+In my free time I offer private mentoring to people passionate about computer science; required some basic knowledge of programming and being motivated.
 \
 \
 \
@@ -22,7 +22,7 @@ Some of the topics I've covered with past students are :
 - publish your first mobile app
 - the programming landscape
 
-For more information contact me. 
+If you are interested contact me. 
 \
 \
 \
