@@ -1,5 +1,6 @@
 {{ define "body" }}
 
+
 <body class="{{ if .Site.Params.backgroundImage }} background-image"
     style="background-image: url('{{ .Site.Params.backgroundImage }}');" {{ else }}"{{ end }}>
     {{ end }}
@@ -12,7 +13,10 @@
                 style="max-width:{{ .Site.Params.Portrait.MaxWidth }}" />
             {{ end }}
 
-            <h1>{{ .Site.Title }}</h1>
+            <style>
+                @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+            </style>
+            <h1 style="font-family: 'Roboto', sans-serif; ">{{ .Site.Title }}</h1>
 
             {{ partial "subtitle.html" . }}
 
