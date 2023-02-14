@@ -8,14 +8,13 @@
     {{ define "main" }}
     <main aria-role="main">
         <div>
+
             {{ if .Site.Params.Portrait.Path }}
             <img src="{{ .Site.Params.Portrait.Path }}" class="circle" alt="{{ .Site.Params.Portrait.Alt }}"
                 style="max-width:{{ .Site.Params.Portrait.MaxWidth }}" />
             {{ end }}
 
-            <style>
-                @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
-            </style>
+
             <h1 style="font-family: 'Roboto', sans-serif; ">{{ .Site.Title }}</h1>
 
             {{ partial "subtitle.html" . }}

@@ -22,8 +22,6 @@ Some of the topics I've covered with past students are :
 - publish your first mobile app
 - the programming landscape
 
-If you are interested contact me. 
-\
 \
 \
 Additionaly if you are interested in writing better software, I do code review for the following languages: Python, Swift, Javascript.
