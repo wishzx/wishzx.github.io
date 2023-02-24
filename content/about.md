@@ -16,6 +16,9 @@ Adept at working independently and collaboratively on projects, and committed to
 \
 \
 I like data, technology and efficiency. Shoshin.
+\
+\
+My areas of interest are AI, cryptography and building scalable and clean software (SOLID).
 
 \
 Experiences:
@@ -24,17 +27,16 @@ Experiences:
 Fullstack and web3 engineer, C-VERSO
 2021- Present (Full remote)
 
-- Design and implementation of the whole ecosystem.
+- Design and implementation of the infrastructure using microservices with Docker.
 - User interface development using React and Material UI.
-- Developed custom UI components.
-- Smart contract design, coding and testing for the ledger and for the marketplace.
+- Writing tests with jest.js.
+- Smart contract design, coding and testing for the ledger and for the marketplace with Smartpy.
 - Backend server development with Express and MongoDB.   
-- Graphql queries with apollo client.
+- GraphQL, Redux, Redis,Next.js, Docker, IPFS.
 - State managment with Redux.
-- Real-time collaborative development using VS code Live Share.
-- Many cloud hosting technologies utlized: Azure, Heroku, Firebase, AWS, Pinata. 
-- Using IPFS to preserve and give resilience to data.
-- Managing complex interactions between different distributed software.
+- Real-time development and code reviews using VS code Live Share and Docker.
+- Many cloud hosting technologies utilized: Azure, AWS, Heroku, Firebase, Pinata.
+- Agile methodologies.
 
 \
 \
@@ -46,20 +48,21 @@ Data Integration for sport matches
 
 - Integrating many new data sources into the existing system.
 - Writing parsing algorithms for complex sports data coming from heterogeneous sources.
-- Extensive websockets optimization for managing constant inbound network data.
-- Developing matching algorithms for bets names of dozens of sports.
-- Designing bet settlement formulas derived from events data.
-- Improvement of user interface for data display and events animations.
+- Testing with PyTest, Unittest.
+- Web sockets optimization.
+- FastAPI and Postman.
+- Improvement of user interface for data display and events animations with javascript.
+- asyncio, flask, notebooks, pandas.
 
 \
 \
 \
-Business Automation consultant,
+Business Automation engineer python,
 2018 (Milan, Italy)
 
-Automated a complex e-commerce business logic using python.
- 
-- Design and software architecture to automate many business processes.
+Automated a complex e-commerce business logic using python which was previously done by a clerk.
+
+- Design and software architecture to automate the business logic.
 - User interface to interact with the system.
 - Complex parsing of PDF tables and invoices sent by partners.
 - Automated creation of electronic invoices using data fetched from Amazon SP-API.
@@ -72,15 +75,16 @@ Automated a complex e-commerce business logic using python.
 \
 Personal projects 2016-Present
 
-- Car plates recognition using convolutional neural nets.
-- Natural language error correction with transformers.
-- Telegram bot for receiving good morning motivational messages.
+- Car plates recognition using convolutional neural nets with YOLO algorithm.
+- Natural language error correction with transformers using Pytorch.
+- Telegram bot for receiving daily motivational messages.
 - Cross-chain atomic swap between two parties of cryptocurrencies with python-bitcoinlib.
 - Fully decentralized exchange with my own ERC20 token on ethereum with solidity and web3.js.
 - Using Z-SNARKS to reimplement Tornado.cash algorithm.
-- SET game implemented with SwiftUI for IOS
-- Habit tracking app for android with Kotlin
-- This static website using Hugo
+- SET game implemented with SwiftUI for IOS.
+- Unreal engine game development with C++ and blueprints.
+- Habit tracking app and tips calculator for android with Kotlin
+- Static website using Hugo and Go templates.
 
 \
 \
@@ -92,6 +96,6 @@ MD Computer Science and Engineer, Politecnico di Milano.
 
 BD Computer Engineering , University of Bergamo.
 
-Internship at Next Solution, Lecco. Embedded firmware development for racing cars
+Internship at Next Solution, Lecco. Embedded firmware development for racing cars in C
 
 
