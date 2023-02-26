@@ -21,7 +21,7 @@ Some of the topics I've covered with past students are :
 - workspace optimization
 - publish your first mobile app
 - the programming landscape
-- modern fullstack web frameworks 
+- modern fullstack web development with Remix (SSR React,TS,TailwindCSS,API,sqlite and docker)
 
 \
 \
