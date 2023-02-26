@@ -96,6 +96,6 @@ MD Computer Science and Engineer, Politecnico di Milano.
 
 BD Computer Engineering , University of Bergamo.
 
-Internship at Next Solution, Lecco. Embedded firmware development for racing cars in C
+Internship at Next Solution, Lecco. Embedded firmware development for racing cars in C.
 
 
